@@ -1,0 +1,2242 @@
+[
+  {
+    "day": 1,
+    "problems": [
+      {
+        "name": "Second Largest",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Sorting"],
+        "emojis": ["🥈", "📊"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 2,
+    "problems": [
+      {
+        "name": "Move All Zeroes to End",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Two Pointers"],
+        "emojis": ["⏩", "🎯"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 3,
+    "problems": [
+      {
+        "name": "Reverse an Array",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays"],
+        "emojis": ["🔄", "配列"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 4,
+    "problems": [
+      {
+        "name": "Rotate Array",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Rotation"],
+        "emojis": ["🎡", "🔄"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 5,
+    "problems": [
+      {
+        "name": "Next Permutation",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Permutations"],
+        "emojis": ["🔢", "✨"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 6,
+    "problems": [
+      {
+        "name": "Majority Element II",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Hashing"],
+        "emojis": ["🗳️", "🔑"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 7,
+    "problems": [
+      {
+        "name": "Stock Buy and Sell – Multiple Transactions Allowed",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Greedy"],
+        "emojis": ["📈", "💰"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 8,
+    "problems": [
+      {
+        "name": "Stock Buy and Sell – Max One Transaction Allowed",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays"],
+        "emojis": ["📈", "💵"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 9,
+    "problems": [
+      {
+        "name": "Minimize the Heights I",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Sorting"],
+        "emojis": ["📊", "⚖️"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 10,
+    "problems": [
+      {
+        "name": "Kadane’s Algorithm",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Dynamic Programming"],
+        "emojis": ["⛓️", "🚀"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 11,
+    "problems": [
+      {
+        "name": "Maximum Product Subarray",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Dynamic Programming"],
+        "emojis": ["✖️", "🚀"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 12,
+    "problems": [
+      {
+        "name": "Max Circular Subarray Sum",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Kadane's Algorithm"],
+        "emojis": ["🔄", "➕"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 13,
+    "problems": [
+      {
+        "name": "Smallest Positive Missing Number",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Hashing"],
+        "emojis": ["🔍", "🔢"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 14,
+    "problems": [
+      {
+        "name": "Implement Atoi",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Strings"],
+        "emojis": ["📜", "🔢"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 15,
+    "problems": [
+      {
+        "name": "Add Binary Strings",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Strings", "Binary"],
+        "emojis": ["➕", "🤖"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 16,
+    "problems": [
+      {
+        "name": "Anagram",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Strings", "Hashing"],
+        "emojis": ["🔄", "📜"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 17,
+    "problems": [
+      {
+        "name": "Non-Repeating Character",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Strings", "Hashing"],
+        "emojis": ["🔍", "📜"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 18,
+    "problems": [
+      {
+        "name": "Search Pattern (KMP Algorithm)",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Strings", "Algorithms"],
+        "emojis": ["🔍", "⚡"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 19,
+    "problems": [
+      {
+        "name": "Min Chars to Add for Palindrome",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Strings", "KMP"],
+        "emojis": ["⚖️", " palindrome"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 20,
+    "problems": [
+      {
+        "name": "Strings Rotations of Each Other",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Strings"],
+        "emojis": ["🔄", "📜"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 21,
+    "problems": [
+      {
+        "name": "Sort 0s, 1s, and 2s",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Sorting"],
+        "emojis": ["🎨", "🔢"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 22,
+    "problems": [
+      {
+        "name": "Find H-Index",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Sorting", "Binary Search"],
+        "emojis": ["🔬", "📚"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 23,
+    "problems": [
+      {
+        "name": "Count Inversions",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Divide and Conquer"],
+        "emojis": ["🔄", "🔢"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 24,
+    "problems": [
+      {
+        "name": "Overlapping Intervals",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Intervals"],
+        "emojis": ["🔄", "📏"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 25,
+    "problems": [
+      {
+        "name": "Insert Interval",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Intervals"],
+        "emojis": ["➕", "📏"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 26,
+    "problems": [
+      {
+        "name": "Non-overlapping Intervals",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Greedy", "Intervals"],
+        "emojis": ["🚫", "📏"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 27,
+    "problems": [
+      {
+        "name": "Merge Without Extra Space",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Sorting"],
+        "emojis": ["🔄", "💾"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 28,
+    "problems": [
+      {
+        "name": "Number of Occurrence",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Binary Search"],
+        "emojis": ["🔢", "🔍"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 29,
+    "problems": [
+      {
+        "name": "Sorted and Rotated Minimum",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Binary Search"],
+        "emojis": ["🔄", "🔍"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 30,
+    "problems": [
+      {
+        "name": "Search in Rotated Sorted Array",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Binary Search"],
+        "emojis": ["🔄", "🔍"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 31,
+    "problems": [
+      {
+        "name": "Peak Element",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Binary Search"],
+        "emojis": ["🏔️", "🔍"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 32,
+    "problems": [
+      {
+        "name": "K-th Element of Two Arrays",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Arrays", "Binary Search", "Divide and Conquer"],
+        "emojis": [" Kth", "🔍"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 33,
+    "problems": [
+      {
+        "name": "Aggressive Cows",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Binary Search"],
+        "emojis": ["🐮", "🏠"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 34,
+    "problems": [
+      {
+        "name": "Allocate Minimum Pages",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Binary Search"],
+        "emojis": ["📚", "🧑‍🎓"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 35,
+    "problems": [
+      {
+        "name": "K-th Missing Positive Number in a Sorted Array",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Binary Search"],
+        "emojis": ["🔍", "🔢"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 36,
+    "problems": [
+      {
+        "name": "Spirally Traversing a Matrix",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Matrix", "Arrays"],
+        "emojis": ["🌀", " M"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 37,
+    "problems": [
+      {
+        "name": "Rotate by 90 Degree",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Matrix", "Arrays"],
+        "emojis": ["🔄", " M"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 38,
+    "problems": [
+      {
+        "name": "Search in a Row–Column Sorted Matrix",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Matrix", "Binary Search"],
+        "emojis": ["🔍", " M"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 39,
+    "problems": [
+      {
+        "name": "Search in a Row-Wise Sorted Matrix",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Matrix", "Binary Search"],
+        "emojis": ["🔍", " M"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 40,
+    "problems": [
+      {
+        "name": "Search in a Sorted Matrix",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Matrix", "Binary Search"],
+        "emojis": ["🔍", " M"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 41,
+    "problems": [
+      {
+        "name": "Set Matrix Zeroes",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Matrix", "Arrays"],
+        "emojis": ["🅾️", " M"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 42,
+    "problems": [
+      {
+        "name": "Two Sum – Pair with Given Sum",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Hashing", "Arrays"],
+        "emojis": ["➕", "🎯"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 43,
+    "problems": [
+      {
+        "name": "Count Pairs with Given Sum",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Hashing", "Arrays"],
+        "emojis": ["🔢", "🎯"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 44,
+    "problems": [
+      {
+        "name": "Find All Triplets with Zero Sum",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Two Pointers"],
+        "emojis": ["➕", "🅾️"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 45,
+    "problems": [
+      {
+        "name": "Intersection of Two Arrays with Duplicate Elements",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Hashing"],
+        "emojis": ["∩", "🔢"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 46,
+    "problems": [
+      {
+        "name": "Union of Arrays with Duplicates",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Hashing"],
+        "emojis": ["∪", "🔢"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 47,
+    "problems": [
+      {
+        "name": "Longest Consecutive Subsequence",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Hashing"],
+        "emojis": ["📈", "⛓️"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 48,
+    "problems": [
+      {
+        "name": "Print Anagrams Together",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Strings", "Hashing"],
+        "emojis": ["🔄", "📜"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 49,
+    "problems": [
+      {
+        "name": "Subarrays with Sum K",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Hashing"],
+        "emojis": ["➕", "🎯"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 50,
+    "problems": [
+      {
+        "name": "Count Subarrays with Given XOR",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Hashing", "Bit Manipulation"],
+        "emojis": ["🔢", "💡"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 51,
+    "problems": [
+      {
+        "name": "Count All Triplets with Given Sum in Sorted Array",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Two Pointers"],
+        "emojis": ["🔢", "🎯"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 52,
+    "problems": [
+      {
+        "name": "Count Pairs Whose Sum Is Less Than Target",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Two Pointers"],
+        "emojis": ["🔢", "📉"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 53,
+    "problems": [
+      {
+        "name": "Sum Pair Closest to Target",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Two Pointers"],
+        "emojis": ["🎯", "🤏"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 54,
+    "problems": [
+      {
+        "name": "Pair with Given Sum in a Sorted Array",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Two Pointers"],
+        "emojis": ["➕", "🎯"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 55,
+    "problems": [
+      {
+        "name": "Count the Number of Possible Triangles",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Sorting", "Two Pointers"],
+        "emojis": ["🔺", "🔢"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 56,
+    "problems": [
+      {
+        "name": "Indexes of Subarray Sum",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Sliding Window"],
+        "emojis": ["🔍", "🎯"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 57,
+    "problems": [
+      {
+        "name": "Count Distinct Elements in Every Window",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Sliding Window", "Hashing"],
+        "emojis": ["🖼️", "🔢"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 58,
+    "problems": [
+      {
+        "name": "Longest Substring with Distinct Characters",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Strings", "Sliding Window"],
+        "emojis": ["📈", "📜"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 59,
+    "problems": [
+      {
+        "name": "Trapping Rain Water",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Arrays", "Two Pointers"],
+        "emojis": ["💧", "🧱"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 60,
+    "problems": [
+      {
+        "name": "Container With Most Water",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Two Pointers"],
+        "emojis": ["💧", "📦"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 61,
+    "problems": [
+      {
+        "name": "Equilibrium Point",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Prefix Sum"],
+        "emojis": ["⚖️", "🎯"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 62,
+    "problems": [
+      {
+        "name": "Longest Subarray with Sum K",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Hashing", "Prefix Sum"],
+        "emojis": ["📈", "🎯"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 63,
+    "problems": [
+      {
+        "name": "Largest Subarray of 0's and 1's",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Hashing"],
+        "emojis": ["📈", "⚖️"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 64,
+    "problems": [
+      {
+        "name": "Product Array Puzzle",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays"],
+        "emojis": ["🧩", "✖️"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 65,
+    "problems": [
+      {
+        "name": "Reverse a Linked List",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Linked List"],
+        "emojis": ["🔄", "🔗"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 66,
+    "problems": [
+      {
+        "name": "Rotate a Linked List",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Linked List"],
+        "emojis": ["🔄", "🔗"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 67,
+    "problems": [
+      {
+        "name": "Merge Two Sorted Linked Lists",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Linked List"],
+        "emojis": ["🔄", "🔗"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 68,
+    "problems": [
+      {
+        "name": "Linked List Group Reverse",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Linked List", "Recursion"],
+        "emojis": ["🔄", "🔗"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 69,
+    "problems": [
+      {
+        "name": "Add Number Linked Lists",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Linked List"],
+        "emojis": ["➕", "🔗"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 70,
+    "problems": [
+      {
+        "name": "Clone List with Next and Random",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Linked List", "Hashing"],
+        "emojis": ["🐑", "🔗"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 71,
+    "problems": [
+      {
+        "name": "Detect Loop in Linked List",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Linked List", "Two Pointers"],
+        "emojis": ["🔍", "🔄"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 72,
+    "problems": [
+      {
+        "name": "Find the First Node of Loop in Linked List",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Linked List", "Two Pointers"],
+        "emojis": ["🎯", "🔄"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 73,
+    "problems": [
+      {
+        "name": "Remove Loop in Linked List",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Linked List", "Two Pointers"],
+        "emojis": ["✂️", "🔄"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 74,
+    "problems": [
+      {
+        "name": "LRU Cache",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Hashing", "Linked List", "Design"],
+        "emojis": ["💾", "🧠"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 75,
+    "problems": [
+      {
+        "name": "Permutations of a String",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Recursion", "Backtracking"],
+        "emojis": ["🔄", "📜"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 76,
+    "problems": [
+      {
+        "name": "Implement Pow",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Recursion", "Math"],
+        "emojis": ["✖️", "➗"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 77,
+    "problems": [
+      {
+        "name": "N-Queen Problem",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Backtracking"],
+        "emojis": ["👑", "♟️"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 78,
+    "problems": [
+      {
+        "name": "Solve the Sudoku",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Backtracking"],
+        "emojis": ["🧩", "🔢"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 79,
+    "problems": [
+      {
+        "name": "Word Search",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Backtracking", "Matrix"],
+        "emojis": ["🔍", "📜"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 80,
+    "problems": [
+      {
+        "name": "Level Order Traversal",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Trees", "BFS"],
+        "emojis": ["🌳", "➡️"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 81,
+    "problems": [
+      {
+        "name": "Height of Binary Tree",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Trees", "DFS"],
+        "emojis": ["🌳", "📏"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 82,
+    "problems": [
+      {
+        "name": "Diameter of a Binary Tree",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Trees", "DFS"],
+        "emojis": ["🌳", "↔️"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 83,
+    "problems": [
+      {
+        "name": "Mirror Tree",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Trees"],
+        "emojis": ["🌳", "🪞"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 84,
+    "problems": [
+      {
+        "name": "Construct Tree from Inorder & Preorder",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Trees"],
+        "emojis": ["🌳", "🏗️"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 85,
+    "problems": [
+      {
+        "name": "Inorder Traversal",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Trees", "DFS"],
+        "emojis": ["🌳", "🚶"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 86,
+    "problems": [
+      {
+        "name": "Tree Boundary Traversal",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Trees"],
+        "emojis": ["🌳", "🏞️"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 87,
+    "problems": [
+      {
+        "name": "Maximum Path Sum from Any Node",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Trees", "DFS"],
+        "emojis": ["🌳", "➕"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 88,
+    "problems": [
+      {
+        "name": "K Sum Paths",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Trees", "DFS"],
+        "emojis": ["🌳", " K"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 89,
+    "problems": [
+      {
+        "name": "Check for BST",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Trees", "BST"],
+        "emojis": ["🌳", "✅"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 90,
+    "problems": [
+      {
+        "name": "K-th Smallest in BST",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Trees", "BST"],
+        "emojis": ["🌳", " Kth"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 91,
+    "problems": [
+      {
+        "name": "Pair Sum in BST",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Trees", "BST"],
+        "emojis": ["🌳", "➕"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 92,
+    "problems": [
+      {
+        "name": "Fixing Two Nodes of a BST",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Trees", "BST"],
+        "emojis": ["🌳", "🔧"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 93,
+    "problems": [
+      {
+        "name": "Lowest Common Ancestor in a BST",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Trees", "BST"],
+        "emojis": ["🌳", "👴"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 94,
+    "problems": [
+      {
+        "name": "Serialize and Deserialize a Binary Tree",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Trees", "Design"],
+        "emojis": ["🌳", "📦"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 95,
+    "problems": [
+      {
+        "name": "k Largest Elements",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Heap", "Priority Queue"],
+        "emojis": ["🔥", " K"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 96,
+    "problems": [
+      {
+        "name": "K Closest Points to Origin",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Heap", "Priority Queue"],
+        "emojis": ["🔥", "🎯"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 97,
+    "problems": [
+      {
+        "name": "Merge K Sorted Linked Lists",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Heap", "Linked List"],
+        "emojis": ["🔥", "🔗"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 98,
+    "problems": [
+      {
+        "name": "Find Median in a Stream",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Heap", "Design"],
+        "emojis": ["🔥", "🌊"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 99,
+    "problems": [
+      {
+        "name": "Parenthesis Checker",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Stack"],
+        "emojis": ["📚", "✅"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 100,
+    "problems": [
+      {
+        "name": "Longest Valid Parentheses",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Stack", "Strings"],
+        "emojis": ["📚", "📈"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 101,
+    "problems": [
+      {
+        "name": "Next Greater Element",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Stack", "Arrays"],
+        "emojis": ["📚", "➡️"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 102,
+    "problems": [
+      {
+        "name": "Stock Span Problem",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Stack", "Arrays"],
+        "emojis": ["📚", "📈"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 103,
+    "problems": [
+      {
+        "name": "Histogram Max Rectangular Area",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Stack", "Arrays"],
+        "emojis": ["📚", "📊"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 104,
+    "problems": [
+      {
+        "name": "Maximum of Minimum for Every Window Size",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Stack", "Arrays"],
+        "emojis": ["📚", "🖼️"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 105,
+    "problems": [
+      {
+        "name": "Get Min from Stack",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Stack", "Design"],
+        "emojis": ["📚", "🔽"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 106,
+    "problems": [
+      {
+        "name": "Evaluation of Postfix Expression",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Stack"],
+        "emojis": ["📚", "🧮"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 107,
+    "problems": [
+      {
+        "name": "Decode the String",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Stack", "Strings"],
+        "emojis": ["📚", "📜"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 108,
+    "problems": [
+      {
+        "name": "K-Sized Subarray Maximum",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Queue", "Sliding Window"],
+        "emojis": ["↔️", "🔼"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 109,
+    "problems": [
+      {
+        "name": "Longest Bounded-Difference Subarray",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Queue", "Sliding Window"],
+        "emojis": ["↔️", "📈"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 110,
+    "problems": [
+      {
+        "name": "Longest Increasing Subsequence",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["📈", "⛓️"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 111,
+    "problems": [
+      {
+        "name": "Longest String Chain",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming", "Strings"],
+        "emojis": ["⛓️", "📜"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 112,
+    "problems": [
+      {
+        "name": "Longest Common Subsequence",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["⛓️", "🤝"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 113,
+    "problems": [
+      {
+        "name": "Longest Palindromic Subsequence",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["⛓️", " palindrome"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 114,
+    "problems": [
+      {
+        "name": "Longest Palindrome in a String",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming", "Strings"],
+        "emojis": ["📈", " palindrome"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 115,
+    "problems": [
+      {
+        "name": "Palindrome SubStrings",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Strings", "Dynamic Programming"],
+        "emojis": ["🔢", " palindrome"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 116,
+    "problems": [
+      {
+        "name": "Edit Distance",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming", "Strings"],
+        "emojis": ["✏️", "📏"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 117,
+    "problems": [
+      {
+        "name": "Ways to Reach the n’th Stair",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["🪜", "🔢"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 118,
+    "problems": [
+      {
+        "name": "Min Cost Climbing Stairs",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["🪜", "💰"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 119,
+    "problems": [
+      {
+        "name": "0–1 Knapsack Problem",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["🎒", "⚖️"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 120,
+    "problems": [
+      {
+        "name": "Coin Change (Count Ways)",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["🪙", "🔢"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 121,
+    "problems": [
+      {
+        "name": "Coin Change (Minimum Coins)",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["🪙", "🔽"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 122,
+    "problems": [
+      {
+        "name": "Minimum Jumps",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming", "Greedy"],
+        "emojis": ["🏃", "🔽"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 123,
+    "problems": [
+      {
+        "name": "Subset Sum Problem",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming", "Arrays"],
+        "emojis": ["🎯", "🤔"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 124,
+    "problems": [
+      {
+        "name": "Partition Equal Subset Sum",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming", "Arrays"],
+        "emojis": ["⚖️", "🤔"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 125,
+    "problems": [
+      {
+        "name": "Stock Buy and Sell – Max K Transactions Allowed",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["📈", " K"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 126,
+    "problems": [
+      {
+        "name": "Stock Buy and Sell – Max 2 Transactions Allowed",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["📈", "✌️"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 127,
+    "problems": [
+      {
+        "name": "Stickler Thief",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["🥷", "💰"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 128,
+    "problems": [
+      {
+        "name": "Stickler Thief II",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["🥷", "🏠"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 129,
+    "problems": [
+      {
+        "name": "Total Decoding Messages",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["🔢", "📜"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 130,
+    "problems": [
+      {
+        "name": "Matrix Chain Multiplication",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Dynamic Programming"],
+        "emojis": [" M", "✖️"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 131,
+    "problems": [
+      {
+        "name": "Boolean Parenthesization",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Dynamic Programming"],
+        "emojis": ["🤔", "🔢"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 132,
+    "problems": [
+      {
+        "name": "Word Break",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Dynamic Programming", "Trie"],
+        "emojis": ["📜", "✂️"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 133,
+    "problems": [
+      {
+        "name": "Minimum Platforms",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Greedy", "Arrays", "Sorting"],
+        "emojis": ["🚂", "🚉"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 134,
+    "problems": [
+      {
+        "name": "Activity Selection",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Greedy", "Sorting"],
+        "emojis": ["🏃‍♀️", "🗓️"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 135,
+    "problems": [
+      {
+        "name": "Job Sequencing Problem",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Greedy", "Sorting"],
+        "emojis": ["💼", "💰"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 136,
+    "problems": [
+      {
+        "name": "Gas Station",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Greedy", "Arrays"],
+        "emojis": ["⛽", "🚗"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 137,
+    "problems": [
+      {
+        "name": "Maximize Partitions in a String",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Greedy", "Strings"],
+        "emojis": ["✂️", "📜"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 138,
+    "problems": [
+      {
+        "name": "DFS of Graph",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Graphs", "DFS"],
+        "emojis": ["📈", "🚶"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 139,
+    "problems": [
+      {
+        "name": "BFS of Graph",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Graphs", "BFS"],
+        "emojis": ["📈", "🌊"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 140,
+    "problems": [
+      {
+        "name": "Rotten Oranges",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Graphs", "BFS"],
+        "emojis": ["🍊", "🤢"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 141,
+    "problems": [
+      {
+        "name": "Undirected Graph Cycle",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Graphs", "DFS"],
+        "emojis": ["📈", "🔄"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 142,
+    "problems": [
+      {
+        "name": "Number of Islands",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Graphs", "DFS", "BFS"],
+        "emojis": ["🏝️", "🔢"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 143,
+    "problems": [
+      {
+        "name": "Topological Sort",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Graphs", "DFS", "Topological Sort"],
+        "emojis": ["📈", "📊"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 144,
+    "problems": [
+      {
+        "name": "Directed Graph Cycle",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Graphs", "DFS"],
+        "emojis": ["📈", "🔄"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 145,
+    "problems": [
+      {
+        "name": "Bridge Edge in a Graph",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Graphs", "DFS"],
+        "emojis": ["🌉", "📈"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 146,
+    "problems": [
+      {
+        "name": "Articulation Point – II",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Graphs", "DFS"],
+        "emojis": ["📍", "📈"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 147,
+    "problems": [
+      {
+        "name": "Minimum Cost to Connect All Houses in a City",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Graphs", "MST", "Prim's Algorithm"],
+        "emojis": ["🏠", "💰"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 148,
+    "problems": [
+      {
+        "name": "Dijkstra’s Algorithm",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Graphs", "Shortest Path"],
+        "emojis": ["📈", "🗺️"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 149,
+    "problems": [
+      {
+        "name": "Flood Fill Algorithm",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Graphs", "DFS", "BFS"],
+        "emojis": ["🎨", "🌊"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 150,
+    "problems": [
+      {
+        "name": "Account Merge",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Graphs", "Union Find"],
+        "emojis": ["📧", "🔄"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 151,
+    "problems": [
+      {
+        "name": "Clone an Undirected Graph",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Graphs", "DFS", "BFS"],
+        "emojis": ["🐑", "📈"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 152,
+    "problems": [
+      {
+        "name": "Alien Dictionary",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Graphs", "Topological Sort"],
+        "emojis": ["👽", "📜"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 153,
+    "problems": [
+      {
+        "name": "Bellman-Ford",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Graphs", "Shortest Path"],
+        "emojis": ["📈", "🛎️"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 154,
+    "problems": [
+      {
+        "name": "Floyd Warshall",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Graphs", "Shortest Path"],
+        "emojis": ["📈", "🗺️"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 155,
+    "problems": [
+      {
+        "name": "Minimum Weight Cycle",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Hard",
+        "topics": ["Graphs", "Shortest Path"],
+        "emojis": ["🔄", "⚖️"]
+      }
+    ],
+    "color": "#f87171"
+  },
+  {
+    "day": 156,
+    "problems": [
+      {
+        "name": "Implement Trie",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Trie", "Design"],
+        "emojis": ["🌳", "📜"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 157,
+    "problems": [
+      {
+        "name": "Maximum XOR of Two Numbers in an Array",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Trie", "Bit Manipulation"],
+        "emojis": ["💡", "🔼"]
+      }
+    ],
+    "color": "#facc15"
+  },
+  {
+    "day": 158,
+    "problems": [
+      {
+        "name": "Find Only Repetitive Element from 1 to n-1",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Bit Manipulation"],
+        "emojis": ["🔍", "🔄"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 159,
+    "problems": [
+      {
+        "name": "Missing in Array",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Easy",
+        "topics": ["Arrays", "Bit Manipulation"],
+        "emojis": ["🔍", "🔢"]
+      }
+    ],
+    "color": "#4ade80"
+  },
+  {
+    "day": 160,
+    "problems": [
+      {
+        "name": "Unique Number II",
+        "link" : "https://x.com/khurramrashidd",
+        "twitterPostLink": "https://x.com/khurramrashidd",
+        "difficulty": "Medium",
+        "topics": ["Arrays", "Bit Manipulation"],
+        "emojis": ["💡", "✌️"]
+      }
+    ],
+    "color": "#facc15"
+  }
+]
