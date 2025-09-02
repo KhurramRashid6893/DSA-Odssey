@@ -9,7 +9,7 @@ const infoBox = document.getElementById('info-box');
 // 1. Scene, Camera, and Renderer Setup
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-camera.position.set(0, 15, 40);
+camera.position.set(0, 50, 100); // Start camera higher for a better top-down view
 const renderer = new THREE.WebGLRenderer({
     canvas: document.querySelector('#bg-canvas'),
     antialias: true,
@@ -29,10 +29,10 @@ controls.dampingFactor = 0.05;
 const interactiveStarsGroup = new THREE.Group();
 scene.add(interactiveStarsGroup);
 
-// Function to create the Sun with lens flare
+// Function to create the Sun
 function addSun() {
     const sunLight = new THREE.DirectionalLight(0xffffff, 2);
-    sunLight.position.set(50, 20, -50);
+    sunLight.position.set(0, 0, 0); // Position sun at the galaxy's center
     scene.add(sunLight);
 
     const textureLoader = new THREE.TextureLoader();
@@ -48,15 +48,15 @@ function addSun() {
     sunLight.add(lensflare);
 }
 
-// ## UPDATED ##: Function to add a more natural, varied galaxy
+// ## REWRITTEN ##: Function to create a SPIRAL GALAXY
 function addGalaxy() {
     const starGeometry = new THREE.BufferGeometry();
     const starMaterial = new THREE.PointsMaterial({
         size: 0.1,
-        vertexColors: true, // Use per-vertex colors
+        vertexColors: true,
         transparent: true,
         opacity: 0.7,
-        sizeAttenuation: true, // Distant points are smaller
+        sizeAttenuation: true,
     });
 
     const starVertices = [];
@@ -64,19 +64,34 @@ function addGalaxy() {
     const starSizes = [];
 
     const baseColor = new THREE.Color("#FFFFFF");
-    const accentColor = new THREE.Color("#ADD8E6"); // Light blue
+    const accentColor = new THREE.Color("#ADD8E6");
 
-    for (let i = 0; i < 20000; i++) {
-        const distance = Math.random() * 200;
-        const angle = Math.random() * Math.PI * 2;
-        const x = Math.cos(angle) * distance;
-        const y = THREE.MathUtils.randFloatSpread(8);
-        const z = Math.sin(angle) * distance;
+    const galaxyParams = {
+        count: 30000,
+        radius: 150,
+        branches: 4,
+        spin: 1.5,
+        randomness: 0.5,
+        randomnessPower: 3,
+    };
+
+    for (let i = 0; i < galaxyParams.count; i++) {
+        const radius = Math.random() * galaxyParams.radius;
+        const spinAngle = radius * galaxyParams.spin;
+        const branchAngle = (i % galaxyParams.branches) / galaxyParams.branches * Math.PI * 2;
+
+        const randomX = Math.pow(Math.random(), galaxyParams.randomnessPower) * (Math.random() < 0.5 ? 1 : -1) * galaxyParams.randomness * radius;
+        const randomY = Math.pow(Math.random(), galaxyParams.randomnessPower) * (Math.random() < 0.5 ? 1 : -1) * galaxyParams.randomness * 0.2;
+        const randomZ = Math.pow(Math.random(), galaxyParams.randomnessPower) * (Math.random() < 0.5 ? 1 : -1) * galaxyParams.randomness * radius;
+
+        const x = Math.cos(branchAngle + spinAngle) * radius + randomX;
+        const y = randomY;
+        const z = Math.sin(branchAngle + spinAngle) * radius + randomZ;
+        
         starVertices.push(x, y, z);
 
         const color = baseColor.clone().lerp(accentColor, Math.random() * 0.2);
         starColors.push(color.r, color.g, color.b);
-
         starSizes.push(Math.random() * 1.5 + 0.5);
     }
 
@@ -89,7 +104,7 @@ function addGalaxy() {
     scene.add(galaxy);
 }
 
-// 3. Raycaster for Click Detection
+// 3. Raycaster for Click Detection (No changes needed here)
 const raycaster = new THREE.Raycaster();
 const pointer = new THREE.Vector2();
 let lastClickedStar = null;
@@ -135,6 +150,7 @@ async function init() {
     const response = await fetch('/api/journey-data');
     const journeyData = await response.json();
 
+    // ## REWRITTEN ##: Place achievement stars within the galaxy arms
     journeyData.forEach((day, i) => {
         const geometry = new THREE.SphereGeometry(0.55, 30, 30);
         const material = new THREE.MeshStandardMaterial({
@@ -144,17 +160,22 @@ async function init() {
         });
         const star = new THREE.Mesh(geometry, material);
         
-        const [x, y, z] = Array(3).fill().map(() => THREE.MathUtils.randFloatSpread(100));
+        // Use similar logic to galaxy creation but with a smaller radius
+        const radius = 20 + Math.random() * 100; // Place them in the main arms, not the core
+        const spinAngle = radius * 0.5;
+        const branchAngle = (i % 4) / 4 * Math.PI * 2; // Use 4 main branches
+
+        const x = Math.cos(branchAngle + spinAngle) * radius;
+        const y = (Math.random() - 0.5) * 5; // Allow them to be slightly above/below the plane
+        const z = Math.sin(branchAngle + spinAngle) * radius;
+        
         star.position.set(x, y, z);
         star.userData = day;
-        
-        // ## NEW ##: Assign a random velocity for drifting
         star.userData.velocity = new THREE.Vector3(
             (Math.random() - 0.5) * 0.02,
             (Math.random() - 0.5) * 0.02,
             (Math.random() - 0.5) * 0.02
         );
-
         interactiveStarsGroup.add(star);
     });
     
@@ -170,19 +191,21 @@ function animate() {
     requestAnimationFrame(animate);
     controls.update();
 
-    const time = Date.now() * 0.001;
+    const time = Date.now() * 0.0005; // Slow down time for a more majestic feel
     
-    interactiveStarsGroup.children.forEach(star => {
-        // Pulsing effect
-        const scale = 1 + Math.sin(time + star.position.x) * 0.1;
-        star.scale.set(scale, scale, scale);
+    // ## UPDATED ##: Add slow camera rotation for a cinematic orbit
+    camera.position.x = Math.sin(time * 0.1) * 100;
+    camera.position.z = Math.cos(time * 0.1) * 100;
+    camera.lookAt(scene.position); // Ensure camera always looks at the center
 
-        // ## NEW ##: Drifting motion
+    interactiveStarsGroup.children.forEach(star => {
+        const pulseTime = Date.now() * 0.001;
+        const scale = 1 + Math.sin(pulseTime + star.position.x) * 0.1;
+        star.scale.set(scale, scale, scale);
         star.position.add(star.userData.velocity);
 
-        // Boundary check to keep stars from drifting away forever
-        if (star.position.length() > 60) {
-           star.position.negate(); // Invert position to bring it back
+        if (star.position.length() > 120) { // Increased boundary
+           star.position.negate().multiplyScalar(0.9); // Gently bring it back
         }
     });
 
