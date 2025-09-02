@@ -152,7 +152,7 @@ async function init() {
 
     // ## REWRITTEN ##: Place achievement stars within the galaxy arms
     journeyData.forEach((day, i) => {
-        const geometry = new THREE.SphereGeometry(0.55, 30, 30);
+        const geometry = new THREE.SphereGeometry(1.5, 30, 30);
         const material = new THREE.MeshStandardMaterial({
             color: day.color,
             emissive: day.color,
