@@ -71,7 +71,6 @@ body {
     transform: translateY(0);
 }
 
-/* Loading Screen Styles */
 .loading-screen {
     position: fixed;
     top: 0;
@@ -101,22 +100,11 @@ body {
     to { transform: rotate(360deg); }
 }
 
-.ui-container {
-    /* ... other styles ... */
-    pointer-events: none; /* This is the crucial line! */
-}
-
-/* Add these styles to your existing CSS file */
 .info-box h3 {
     font-size: 1.5rem;
     font-weight: 700;
     margin-bottom: 1rem;
     color: #fff;
-}
-
-.info-box .date {
-    font-weight: 400;
-    opacity: 0.6;
 }
 
 .info-box ul {
@@ -163,7 +151,7 @@ body {
     font-size: 0.8rem;
     opacity: 0.7;
     margin-top: 4px;
-    color: #4daaf1; /* A nice blue color */
+    color: #4daaf1;
     text-decoration: none;
     font-weight: 700;
     transition: opacity 0.2s ease;
@@ -173,17 +161,33 @@ body {
     opacity: 1;
 }
 
-/* =================================== */
-/* MOBILE RESPONSIVENESS       */
-/* =================================== */
+/* ## NEW ##: Styles for the footer and planet title */
+.footer {
+    width: 100%;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 400;
+    opacity: 0.7;
+    letter-spacing: 1px;
+    pointer-events: all;
+}
+
+.planet-title {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--light-slate);
+    opacity: 0.5;
+    margin-bottom: 4px;
+}
+
+/* MOBILE RESPONSIVENESS */
 @media (max-width: 768px) {
     .ui-container {
-        /* Reduce the padding on smaller screens */
         padding: 1.5rem;
     }
 
     .header-title h1 {
-        /* Make the main title smaller */
         font-size: 2.5rem;
     }
 
@@ -192,7 +196,6 @@ body {
     }
 
     .info-box {
-        /* Make the info box fit the screen width */
         left: 1rem;
         right: 1rem;
         bottom: 1rem;
